@@ -1,2 +1,6 @@
 # SitOnChair
-Warsztat - layout strony
+
+
+Website for e-commerce. It contains slider, product presentation and price calculator.
+
+Site was made with JavaScript and CSS.
